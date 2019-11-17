@@ -1,0 +1,31 @@
+// Place all the styles related to the home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.top-wrapper {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: auto;
+    min-height: 100%;
+    background-image: url("/ELFA79_jellybeanssk_TP_V.jpg");   
+}
+
+.top-container {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: auto;
+    min-height: 100%;
+    padding: 180px 0 10px;
+    text-align: left;
+    color: white;
+    background-color: rgba(145, 91, 91, 0.5);
+}
+
+h1 {
+    padding-left: 40px;
+}
+
+p {
+    padding-left: 50px;
+}
